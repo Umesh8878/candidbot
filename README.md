@@ -16,6 +16,8 @@ The **CANDIDBOT** is a Java-based Spring Boot application designed to automate t
 - Provides text-to-speech functionality for communication.
 - Flexible configuration options.
 
+(https://user-images.githubusercontent.com/25388646/247566147-21715a66-a8aa-47aa-82f1-69220fbe876a.jpg)
+
 ## Getting Started
 
 To get started with the Interview Automation Application, follow these steps:
