@@ -1,8 +1,6 @@
 ## CANDIDBOT
 
-<div align="center">
    ![candidbot](https://github.com/Umesh8878/candidbot/assets/115473268/8c49230c-e0c1-4830-8deb-930ef3fdd265)
-</div>
 
 ## Overview
 
