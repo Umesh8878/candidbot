@@ -1,8 +1,8 @@
 ## CANDIDBOT
 
-<div align="center">
+<div align="center", width="75%">
    ![candidbot](https://github.com/Umesh8878/candidbot/assets/115473268/8c49230c-e0c1-4830-8deb-930ef3fdd265)
-</div>div>
+</div>
 
 ## Overview
 
