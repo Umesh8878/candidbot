@@ -69,16 +69,12 @@ You can customize the behavior of the Interview Automation Application by modify
 - `openai.api.url`: The API endpoint for the OpenAI service.
 - Other configuration options for interview modes, paths to question files, and more.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - This application leverages the OpenAI GPT-3 model for automated candidate evaluation.
 - Special thanks to the developers and contributors who made this project possible.
 
 ## Contact
-For questions or inquiries about this application, please contact US.
+For questions or inquiries about this application, please contact us.
 
 ## Thank You!
