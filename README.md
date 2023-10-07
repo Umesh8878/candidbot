@@ -1,6 +1,7 @@
 ## CANDIDBOT
 
-   ![candidbot](https://github.com/Umesh8878/candidbot/assets/115473268/8c49230c-e0c1-4830-8deb-930ef3fdd265)
+![candidbot](https://github.com/Umesh8878/candidbot/assets/115473268/e14eac42-8d48-46f3-b52f-082d69541da2)
+
 
 ## Overview
 
