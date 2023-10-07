@@ -1,1 +1,1 @@
-# candidibot
+# candidbot
