@@ -33,29 +33,22 @@ To get started with the Interview Automation Application, follow these steps:
 ## Installation
 
 1. Clone this repository to your local machine.
-
-```shell
-git clone (https://github.com/Umesh8878/candidbot)
+   
+    git clone (https://github.com/Umesh8878/candidbot)
 
 1. Navigate to the project directory:
 
-    ```shell
     cd interview-automation
-    ```
 
 2. Configure your OpenAI API credentials by setting the `openai.api.key` in `application.properties` or using environment variables.
 
 3. Build the application using Maven:
 
-    ```shell
     mvn clean install
-    ```
 
 4. Run the application:
 
-    ```shell
     mvn spring-boot:run
-    ```
 
 ## Usage
 
