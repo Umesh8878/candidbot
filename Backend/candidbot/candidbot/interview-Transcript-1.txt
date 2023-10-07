@@ -1,0 +1,30 @@
+Your Recording 22.wav
+Transcript
+Speaker 1
+Hello candidate, thanks for joining banknotes submitted 3 screening interview. Your answer only. This discussion is to evaluate your basic competency level and decide on shortlisting for the next discussion around. After you have listen to the entire question first. Once you complete your answer, you are ready for the next question. Question forward in messaging system like after one is a partition. Once you complete your answer enter. On your keyboard.
+Speaker 2
+In Kafka, partitions are logical abstractions of messages. We can have partitions to enable parallelism, so multiple consumers can read the same Kafka topic and process data in parallel. This makes the processing much faster.
+Speaker 1
+Question 2IN Nodejs what is the purpose of the moduli exports once you complete answer enter? On your keyboard.
+Speaker 2
+In node JS module exports help in modular programming. They help to keep our program our code base independent and interchangeable. This is good. Helps in separation of concerns and is a practice.
+Speaker 1
+Question 3IN SQL is the difference, so we give you a new middle bond so you complete rents are entirely on your keyboard.
+Speaker 2
+The difference is that Union operation omits the duplicates, whereas the Union all operation will also include the duplicates in the final results.
+Speaker
+OK.
+Speaker 1
+Question five in Springwood, which annotation will you if you want to perform the task as soon as the application starts up? Besides solution should occur only once. Once you complete rents are entry on your keyboard.
+Speaker 2
+Annotation auto wired.
+Speaker 1
+Question one, the job is the difference between list and passion and when to use it. Once you answer, enter on your keyboard.
+Speaker 2
+Linked list is used for sequential sequential storing of data whereas hash map is like a string.
+Speaker 1
+Likely you will.
+Speaker 2
+It will it will store data in a heap. Linked list is used for. Searching elements in sequential order. There is a hash map. Can be used for storing data.
+Speaker 1
+Or review is now complete. And then from this meeting, thank you for your time. You may now sign. We can now start the second stage and then when you are ready to initiate the candidate evaluation process, please enter. And pick evaluation will start now. Repairing interview transcript for evaluation. Please be patient if you have sinus teams for the interview session that teams can generate this automatically for you after the interview meeting ends. Whichever approach you take is saved into the file interview regenerate. Or you can use the msword dictate functionality to generate this transcript for any third party application like go to the transcript. Back slash preview automation with generated script on the ESP to proceed. New transcript is already placed. Please replace it with your specific transcript when you have it ready for now. If you wish, you can proceed with the regenerated transcript for the candidate evaluation.
