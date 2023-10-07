@@ -23,19 +23,19 @@ The **CANDIDBOT** is a Java-based Spring Boot application designed to automate t
 
 To get started with the Interview Automation Application, follow these steps:
 
-### Prerequisites
+## Prerequisites
 
 - Java Development Kit (JDK) installed on your system.
 - Maven build tool for building the application.
 - OpenAI API credentials (API key) for using the GPT-3 model.
 - Speech synthesis engine (e.g., `TextToSpeech`) set up for audio communication.
 
-### Installation
+## Installation
 
 1. Clone this repository to your local machine.
 
 ```shell
-git clone [https://github.com/your-username/interview-automation.git](https://github.com/Umesh8878/candidbot)
+git clone (https://github.com/Umesh8878/candidbot)
 
 1. Navigate to the project directory:
 
